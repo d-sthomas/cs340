@@ -1,0 +1,8 @@
+flask
+flask[async]
+requests
+python-dotenv
+flask_socketio
+Pillow
+eventlet
+pymongo
